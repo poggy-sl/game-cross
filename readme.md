@@ -1,3 +1,3 @@
-# Git and Github Course
+# Game Cross on Github
 
-Crash course for Git
+Choose "X" or "0" to play game.
