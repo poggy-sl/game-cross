@@ -6,8 +6,6 @@ function Square(props) {
     );
 }
 
-console.log(test2);
-
 class Board extends React.Component {
     renderSquare(i) {
     return (
